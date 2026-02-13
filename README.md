@@ -1,4 +1,4 @@
-![banner](/assets/banner.png)
+![banner](/assets/profile-banner.png)
 
 Here at **Mnemora**, we craft custom software and AI automation that help businesses run smarter, cut inefficiencies, and scale with purpose. We handle the complexity so teams can focus on growth, impact, and what truly matters.
 
